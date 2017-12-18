@@ -7,4 +7,4 @@ C = heap_sort(A);
 max = heap_maximum(B);
 [e_max, D] = heap_extract_max(B);
 E = heap_increase_key(A, 10, 2);
-F = max_
+F = max_heap_insert(A, 3);
